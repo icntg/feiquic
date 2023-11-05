@@ -1,0 +1,8 @@
+object FormMainFeiquic: TFormMainFeiquic
+  Left = 601
+  Height = 559
+  Top = 293
+  Width = 238
+  Caption = 'Feiquic'
+  LCLVersion = '2.2.6.0'
+end
